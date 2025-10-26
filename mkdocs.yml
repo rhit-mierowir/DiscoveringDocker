@@ -1,8 +1,8 @@
 site_name: Discovering Docker
 
 # Repository - This creates the image in the top right corner that directs you to the code directory
-#repo_name: DiscoveringDocker
-#repo_url: https://github.com/rhit-mierowir/DiscoveringDocker
+repo_name: DiscoveringDocker
+repo_url: https://github.com/rhit-mierowir/DiscoveringDocker
 
 
 
