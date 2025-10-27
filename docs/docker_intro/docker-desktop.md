@@ -12,4 +12,3 @@ docker build -t welcome-to-docker .
 
 This all generates an *image* holding all of this configuration that can then be run as a *container*.
 
-Next: https://docs.docker.com/get-started/introduction/develop-with-containers/
