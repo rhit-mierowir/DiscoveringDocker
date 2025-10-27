@@ -36,8 +36,8 @@ Changes to the running software were ==performed as quickly as the files were sa
 
 I don't think that this is something we will be using, so I mostly just read through it. 
 
-dockerfile/image:
-    A text-based format to specify how to build an image.
+`dockerfile/image`
+:   A text-based format to specify how to build an image.
 
 Here are the commands that we would need to run:
 
