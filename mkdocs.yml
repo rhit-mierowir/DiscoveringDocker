@@ -64,13 +64,13 @@ plugins:
   - awesome-nav
   - redirects: # https://github.com/mkdocs/mkdocs-redirects
       redirect_maps: {}
-  - minify: 
-      minify_html: true
-  - git-revision-date-localized: #This creates the little markers on the bottom of the page for when it was last uploaded.
-      enabled: true
-      type: timeago
-      enable_creation_date: true
-      fallback_to_build_date: true
+  # - minify: 
+  #     minify_html: true
+  # - git-revision-date-localized: #This creates the little markers on the bottom of the page for when it was last uploaded.
+  #     enabled: true
+  #     type: timeago
+  #     enable_creation_date: true
+  #     fallback_to_build_date: true
 
 # Extensions
 markdown_extensions:
